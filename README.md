@@ -14,6 +14,7 @@ To get started with Arduino Nano 33 BLE Sense and Edge Impulse, [read this](http
 ## Capture
 Inference result on console:
 ![capture](https://raw.githubusercontent.com/andriyadi/FanFault-EdgeImpulse/main/assets/terminal_cap.png)
+I'm using ANSI color code to get the text colored and bolded. To get the same effect, make sure your terminal supports it.
 
 ## How to replicate
 You need to have PlatformIO installed. 
